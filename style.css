@@ -15,3 +15,21 @@
 .heading_div2{
     font-size:18px;
 }
+.result_tag{
+    font-size:20px;
+    box-shadow:5px 5px 10px greenyellow;
+}
+#copyrightfooter{
+    background-color:black;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    color:white;
+    line-height:2;
+}
+canvas{
+    border:2px solid red;
+    box-shadow:5px 5px 10px blueviolet;
+    border-radius:20px;
+    margin-top:125px;
+}
